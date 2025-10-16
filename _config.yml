@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Minsol Park # the main title
 
-tagline: Master student # it will display as the subtitle
+tagline: 내 마음 나도 몰라 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
