@@ -1,3 +1,11 @@
+### 로컬 웹 서버 실행
+
+```bash
+bundle exec jekyll serve
+```
+
+---
+
 <!-- markdownlint-disable-next-line -->
 <div align="center">
 
